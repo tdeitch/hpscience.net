@@ -1,0 +1,31 @@
+@import url(http://fonts.googleapis.com/css?family=Vollkorn);
+
+body {
+    font: normal medium Vollkorn,serif;
+    margin-left: 10%;
+    margin-right: 10%;
+    line-height: 1.75;
+    word-spacing: 0.1em;
+    }
+
+header {
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 0em;
+    padding-bottom: 0em;
+    display:block;
+    }    
+
+nav {
+    margin-top: 0em;
+    padding-top: 0em;
+    text-align: center;
+    display:block;
+    }
+
+footer {
+    text-align: center;
+    margin-top: 1em;
+    padding-top: 1em;
+    display:block;
+    }

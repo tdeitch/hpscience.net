@@ -1,0 +1,27 @@
+body {
+	background: white;
+	font-size: 12pt;
+	margin: 0 .5in;
+	}
+
+header {
+    text-align: center;
+    margin-bottom: 0em;
+    padding-bottom: 0em;
+    display: block;
+    }    
+
+nav {
+    display: none;
+    }
+
+footer {
+    display: none;
+    }
+    
+a:link, a:visited {
+	color: #520;
+	background: transparent;
+	font-weight: bold;
+	text-decoration: underline;
+	}
